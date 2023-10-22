@@ -10,6 +10,7 @@
 
 <h2>📄 Certifications </h2>
 
+- [CompTIA Security+ Certification](https://www.credly.com/badges/8e6c494f-b5b6-4395-9d48-153f208b748d/linked_in_profile)
 - [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none_V_s)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/earner/earned/badge/8bab3bac-6e24-4413-a1c7-ad28e60e06b5)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/f115d3d1-9ed8-42a9-a465-009a0f8df7de/linked_in_profile)
