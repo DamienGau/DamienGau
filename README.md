@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [In Progress](URL)
+- <b>TryHackMe</b>
+  - [SOC Level 1 - Learning Path](URL)
   
 - <b>Python</b>
   - [In progress](URL)
