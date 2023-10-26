@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>TryHackMe</b>
+![tryhackme stats](https://raw.githubusercontent.com/<damien.gau>/<damien.gau>/master/assets/thm_propic.png)
   - [SOC Level 1 - Learning Path](URL)
   
 - <b>Python</b>
