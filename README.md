@@ -1,9 +1,10 @@
 <h1>Hi, I'm Damien! <br/><a href="https://www.linkedin.com/in/damien-gau/">Cybersecurity Professional</a>
 
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>TryHackMe</b>
-![tryhackme stats](https://raw.githubusercontent.com/<damien.gau>/<damien.gau>/master/assets/thm_propic.png)
+- <b>[TryHackMe](https://tryhackme.com/p/damien.gau)</b>
   - [SOC Level 1 - Learning Path](URL)
   
 - <b>Python</b>
@@ -20,10 +21,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/damien-gau
+<img src="https://tryhackme-badges.s3.amazonaws.com/damien.gau.png" alt="TryHackMe">
 
 <!--
 
