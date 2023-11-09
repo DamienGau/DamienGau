@@ -12,6 +12,7 @@
 
 <h2>📄 Certifications </h2>
 
+- [Splunk Certified Cybersecurity Defense Analyst](https://www.credly.com/badges/a4b37f83-7dd7-459b-9ebd-84ffe38e0a06/linked_in_profile)
 - [CompTIA Security+ Certification](https://www.credly.com/badges/8e6c494f-b5b6-4395-9d48-153f208b748d/linked_in_profile)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/6b8169b6-f1c2-4f44-bd0a-794b832e92f2/linked_in_profile)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/earner/earned/badge/8bab3bac-6e24-4413-a1c7-ad28e60e06b5)
