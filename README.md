@@ -13,7 +13,7 @@
 - <b>SaaS Tech Start-Up|IAM Project</b>
 
 - <b>[TryHackMe](https://tryhackme.com/p/damien.gau)</b>
-  - [SOC Level 1 - Learning Path](URL)
+  - [SOC Level 1 - Learning Path](https://tryhackme.com/path/outline/soclevel1)
   
 - <b>Python</b>
   - [In progress](URL)
