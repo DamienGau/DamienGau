@@ -4,7 +4,9 @@
 
 <h2>👨‍💻 Cybersecurity Professional Development:</h2>
 
-- <b>Microsoft Sentinel (SIEM) Homelab</b>
+- <b>[Microsoft Sentinel (SIEM) Homelab](https://github.com/DamienGau/Microsoft-Sentinel-SIEM-Lab/tree/main)</b>
+
+- <b>[Attack simulation on TCP/IP Protocol stack]</b>
 
 - <b>Vulnerability Management Lab</b>
 
